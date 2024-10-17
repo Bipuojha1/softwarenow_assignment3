@@ -4,7 +4,7 @@ from PIL import Image, ImageTk
 import tensorflow as tf
 import numpy as np
 
-# Base Class for the Application Window
+## Base Class for the Application Window
 class BaseWindow:
     def __init__(self, title="AI App", size="400x400"):
         # Encapsulation: Hides the implementation details of the window setup
