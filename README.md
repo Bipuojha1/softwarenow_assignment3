@@ -2,6 +2,7 @@
 Here's a diagram showing the process where students first push their code to a branch, followed by a code review, and finally merge into the main branch. This workflow ensures that changes are reviewed before being integrated into the main project.  
 
 
+![1](https://github.com/user-attachments/assets/3a4e8ab6-136c-4ab0-b41b-59a81ce66eef)
 
 
  
